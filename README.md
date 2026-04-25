@@ -124,4 +124,4 @@ http://localhost:8501
 
 ## Author
 
-Machine Learning Project for DEPI Program.
+Machine Learning Project for Div Academy
